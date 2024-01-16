@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="assign_1" targetName="test2" />
+      <config projectName="assign_1" targetName="test1" />
+      <config projectName="assign_1" targetName="all" />
+      <config projectName="assign_1" targetName="test3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a0d9586-699b-48d9-b9bf-e794a005d563" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_0/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_0/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_0/hello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_0/hello.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist.h" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test2_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test3_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/linkedlist ref.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/linkedlist ref.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/linkedlist.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/linkedlist.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/linkedlist.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/linkedlist.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/test_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/test_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_2/union_merge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_2/union_merge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/linkedlist.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/linkedlist.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/linkedlist.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/linkedlist.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/print_array.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/print_array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/print_array.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/print_array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/sorting.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/sorting.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/sorting_basic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/sorting_basic.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/sorting_hybrid.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/sorting_hybrid.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/sorting_ll.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/sorting_ll.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/test1_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/test1_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/test2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/test2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/test2_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/test2_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/test3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/test3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_3/test3_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_3/test3_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/eval_expr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/eval_expr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/eval_expr.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/eval_expr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/stack.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/stack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/test1_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/test1_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/test2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/test2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/test2_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/test2_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/test3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/test3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_4/test3_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_4/test3_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_5/BST.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_5/BST.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_5/BST.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_5/BST.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_5/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_5/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_5/test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_5/test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_5/test2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_5/test2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_5/test3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_5/test3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_6/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_6/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_6/heap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_6/heap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_6/heap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_6/heap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_6/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_6/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_6/test_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_6/test_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/htable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/htable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/htable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/htable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/linkedlist.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/linkedlist.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/linkedlist.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/linkedlist.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/order.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/order.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/order.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/order.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/orders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/orders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_7/test_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_7/test_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_8/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_8/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_8/graph.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_8/graph.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_8/graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_8/graph.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_8/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_8/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_8/test_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_8/test_out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_9/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_9/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_9/city.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_9/city.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign_9/road.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assign_9/road.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="assign_1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assign_1" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="2Cr8zMYx7DBCEzteHStidi9utu7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/zhang/OneDrive - California State University San Marcos/CS311/Assignments/cs311_assignments/assign_2",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MakefileSettings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Makefile Application.test1">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assign_1" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assign_1" TARGET_NAME="test1" CONFIG_NAME="test1" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assign_1" TARGET_NAME="test2" CONFIG_NAME="test2" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assign_1" TARGET_NAME="test3" CONFIG_NAME="test3" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="test1" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.test1" />
+      <item itemvalue="Makefile Application.test2" />
+      <item itemvalue="Makefile Application.test3" />
+      <item itemvalue="Makefile Target.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0d9586-699b-48d9-b9bf-e794a005d563" name="Changes" comment="" />
+      <created>1659549604453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659549604453</updated>
+      <workItem from="1659549608147" duration="481000" />
+      <workItem from="1660201252264" duration="111000" />
+      <workItem from="1660201434277" duration="46000" />
+      <workItem from="1661282316223" duration="165000" />
+      <workItem from="1665635944165" duration="208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
